@@ -58,3 +58,7 @@ git checkout nombre_del_branch
 - Sirve para moverse entre branch
 - :eye:  Si el checkout no tiene el -b solamente es para moverse entre ramas
 
+```
+git merge nombre_del_branch
+```
+- Sirve para combinar dos branchs
