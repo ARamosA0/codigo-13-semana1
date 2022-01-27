@@ -41,3 +41,20 @@ git pull origin main
 git clone url
 ```
 - Sirve para crea por default una carpeta con el nombre del repositorio si la reposicion es publica.
+
+```
+git branch
+```
+- Sirve para listar los branch que tengo localmente y me dice en cual me encuentro actualmente
+
+```
+git checkout -b nombre_del_branch
+```
+- Sirve para crea un nuevo branch
+
+```
+git checkout nombre_del_branch
+```
+- Sirve para moverse entre branch
+- :eye:  Si el checkout no tiene el -b solamente es para moverse entre ramas
+
