@@ -36,3 +36,8 @@ git push origin main
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso GITHUB
+
+```
+git clone url
+```
+- Sirve para crea por default una carpeta con el nombre del repositorio si la reposicion es publica.
